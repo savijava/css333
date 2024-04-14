@@ -1,0 +1,242 @@
+.maindiv{
+    border: 9px solid rgb(28, 229, 28);
+    background-color: burlywood;
+}
+.card1,.card2,.card3{
+    border: 5px solid red;
+    color: white;
+    background-color: black;
+    /* display: inline-flex; */
+    margin-top: 30px;
+    padding: 30px;
+
+}
+
+.card1{
+    height: 130px;
+    width: 350px;
+    font-size: x-large;
+    border-radius: 35px;
+    margin-left: -11px;
+    font-weight: bold;
+    font-style: italic;
+
+}
+.card2{
+    height: 50px;
+    width: 450px;
+    text-decoration-color: white;
+    padding-bottom: 0px;
+    margin-left: -350px;
+    margin-top: 37px;
+    border-radius: 35px;
+
+}
+.lui{
+   padding-bottom: 0px;
+}
+.lui>li{text-align: center;
+    display: inline-block;
+}
+.lui>li>a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    font-size: x-large;
+}
+.card3{
+    height: 150px;
+    width: 350px;
+    padding-top: 4px;
+    font-size: x-large;
+    border-radius: 50px;
+    font-style: italic;
+    font-weight: bold;
+}
+.card31{
+    /* display: inline-block; */
+    padding-top: 2px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    padding-left: 35px;
+}
+.card32{
+    padding-top: 10px;
+    margin-bottom: 30px;
+    padding-left: 35px;
+}
+.card33{
+    /* padding-bottom: 1px; */
+    margin-bottom: 1px;
+    padding-left: 35px;
+}
+
+.cards3{
+    display: flex;
+    margin-left: 0px;
+    /* margin-right: 20px; */
+    justify-content: space-around;
+}
+.card11{
+    margin-top: -16px;
+    display: flex;
+}
+.card12{
+    margin-top: 5%;
+}
+.of1{
+    display: flex;
+    justify-content: space-between;
+    height: 450PX;
+    width: 450PX;
+    border: 7px solid rgb(128, 128, 128);
+    margin-top: 210px;
+    border-radius: 50%;
+    font-style: italic;
+    background-color: aqua;
+}
+.offr{
+    display: flex;
+}
+.rhe{
+    display: flex;
+    color: rgb(173, 68, 68);
+    justify-content: center;
+}
+.exdiv{
+    font-weight: bold;
+    font-style: italic;
+    font-size: xx-large;
+    text-transform: uppercase;
+    height: 100px;
+    width: 500px;
+    border: 7px solid red;
+    border-radius: 35px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 490px;
+    margin-top: 30px;
+}
+.forms{
+    margin-left: 150px;
+    margin-bottom: 200px;
+    margin-top: 100px;
+    border: 8px solid red;
+    border-style: dashed;
+    color: red;
+    width: 550px;
+   
+}
+#naqw {
+    margin-left: 270px;
+    
+}
+.clickhere{
+    margin-left: 234px;
+    border-radius: 5px;
+    padding: 4px;
+}
+#rese1{
+    margin-left: 253px;
+    border-radius: 6px;
+    padding: 6px;
+}
+#clck1{
+    font-size: large;
+
+}
+.inputdetail{
+    display: flex;
+    justify-content: center;
+}
+#name5{
+    width: 180px;
+    /* display: flex; */
+    justify-content: center;
+
+}
+.input1{
+    display: flex;
+    align-items: center;
+    margin-left: 180px;
+}
+
+.eo1{
+    margin-top: 100px;
+    margin-left: 120px;
+    font-weight: bold;
+    text-decoration-line: underline;
+    font-size: x-large;
+    text-transform: uppercase;
+    font-style: italic;
+
+}
+.hr1{
+    margin-left: 1px;
+    width: 105%;
+    color: rgb(128, 128, 128);
+}
+.eo2{
+    font-weight: bold;
+    text-decoration-line: underline;
+    font-size: x-large;
+    text-transform: uppercase;
+    margin-left: 40px;
+    margin-top: 20px;
+    font-style: italic;
+
+}
+.eo3{
+    font-weight: bold;
+    text-decoration-line: underline;
+    font-size: x-large;
+    text-transform: uppercase;
+    margin-left: 37px;
+    margin-top: -20px;
+    font-style: italic;
+
+}
+.eo4{
+    font-weight: bold;
+    text-decoration-line: underline;
+    font-size: x-large;
+    text-transform: uppercase;
+    margin-left: 107px;
+    margin-top: 50px;
+    font-style: italic;
+
+}
+.menus1{
+    display: flex;
+    justify-content: space-around;
+
+}
+.cc3s{
+    margin-left: 100px;
+    color: blue;
+}
+.cc2s{
+    margin-left: 65px;
+    color: blue;
+}
+.cc1s{
+    margin-left: 40px;
+    color: blue;
+}
+#lastcard1{
+    margin-bottom: 50px;
+}
+.lastli{
+    margin-left: 100px;
+    font-size: larger;
+}
+.cc1,.cc2,.cc3{
+    border-radius: 35px;
+    width: 25%;
+    background-color: aqua;
+    border: 4px solid darkgreen;
+    text-align: center;
+}
